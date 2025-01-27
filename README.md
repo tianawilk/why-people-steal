@@ -38,7 +38,7 @@ why people steal and the help they can get
             <h2>What Can You Do?</h2>
             <p>Start by making an effort to value honesty and respect, and consider how your actions affect others. Encourage your peers to do the same. Small actions can lead to big changes.</p>
         </div>
-        <img src="bag.jpeg" alt="Illustration of Stealing Awareness">
+    
     </div>
 </body>
 </html>
